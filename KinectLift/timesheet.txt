@@ -1,0 +1,67 @@
+Dong Won Lee
+Prof. Kosbie
+15112 
+April 20th, 2016
+
+Total Hours: 66 Hours
+
+Mar 28th: 6 - 10 PM (4 Hours)
+Kinect Workshop
+
+April 9th: 11 AM - 1 PM (2.5 Hours)
+Kinect Setup (Bug in SDK, had to reinstall)
+Visual Studios Setup (Text Lines)
+Ran FlappyBirdKinect (Minor bugs in formatting)
+
+April 10th: 4PM - 7.5 PM (3.5 Hours)
+Researched on PyKinect on GitHub 
+Writing skeletal frames into FlappyBirdKinect (Success)
+Working on creating text to display location of neck (In Progress...)
+
+April 11th 10 PM - 12 (4 Hours): 
+Cont. working on creating text to display location of neck (In Progress...)
+Worked on Deliverable #1 
+
+April 14th 5PM - 7PM (2 Hours):
+Researched graphics on pygame (blit, etc)
+Begun drawing rectangles
+
+April 16th 6PM - 8PM (2 Hours):
+Completed rectangles
+Researched writing text on pygame 
+Wrote text (Squat, bench, etc)
+
+April 17th 9 PM - 12 PM (3 Hours):
+Researched how to make buttons work
+Watched videos on https://pythonprogramming.net/pygame-button-function-events/?completed=/pygame-button-function/
+Worked on understanding how to write buttons into the code
+Wrote beginning code for buttons
+
+April 19th 2 -5 PM (3 Hours):
+Implemented code for 2 more excersizes (now it is squat, bench and DL)
+
+April 22nd 2- 4 PM (2 Hours):
+Set up splash screen
+
+April 24th 7:30 PM - April 25th 5:30 AM (10 Hours):
+Buttons Done
+Splash Screen Done
+Bench completely functional
+Gives feedback 
+Overall layout complete 
+
+April 25th 10:00 PM - April 26th 8 AM (10 Hours):
+Found bugs in bench, now works
+Implemented UI, mostly works
+gotta fine tune (Help and Summary Page)
+OTHERWISE MOSTLY DONE YESS
+
+April 27th 12PM - 6 AM(6 Hours):
+UI, summary pages, save and load 
+
+April 29th 12 PM - 6AM (6 Hours):
+Bugs, UI, summary
+
+April 30th 12 PM - 8 AM (8 Hours):
+Fine tuning,
+bugs, video, final

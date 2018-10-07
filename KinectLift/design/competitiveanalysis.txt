@@ -1,0 +1,62 @@
+Dong Won Lee
+Prof. Kosbie
+15112 
+April 12th, 2016
+
+Competitive Analysis
+
+1. 
+Name: Squat!
+Link: http://squat.chestday.com/
+
+Pro-features:
+- Has a breakdown feature in which you can see the date, score (using an aribtrary algorithm), and problem
+- Uses OpenCV and provides instant feedback (as soon as your knee is bent enough)
+
+
+Anti-features:
+- Very limited: only analyzes squat form and in one view
+- Isn't very accurate (limitations of Open CV): doesn't track hip crease, tracks butt instead. leading to inaccurate, high squat
+- Doesn't work with squat cage or any static obstructions  - must be in clear view
+
+Overview:
+The "Squat!" applications has distinct features I can definitely implement. Especially the breakdown feature that gives the user a overview of data (data, recurring problem). It would be a very beneficial UI I can implement. I was also impressed how at the programmer's use of OpenCV. However, my program will supersede this because it uses the Kinect and is able to track more data. There were a couple limitations to the program. Firstly, the program was very limited in the fact that it could only analyze squat and in one perspective. Secondly, the program isn't very accurate in the sense that it doesn't track hip crease, it tracks the butt. Therefore, the user could potentially perform an incorrect squat and the program will not be able to detect it. Finally, the application doesn't work with a squat cage (which is where most people squat). Any static obstruction is a problem for this application, which is a fatal flaw. The kinect is able to detect the joints with/without obstruction. Therefore, my program will be more advanced.
+
+
+
+2. 
+Name: BarSense Weight Lifting Log
+Link: https://play.google.com/store/apps/details?id=com.barsense.main&hl=en
+
+Pro-features:
+- The bar path is clearly visible (you can see how straight you lifted it)
+- The bar velocity is calculated and reported
+
+
+Anti-features:
+- Bugs in horizontal displacement/velocity calculation (inaccurate values reported)
+- Frequent crashing (handles too much data for a phone)
+
+Overview:
+The app, "BarSense Weight Lifting Log" definitely has its pros, which I definitely want to implement in my program. I want to mimic the program's ability to draw the bar path so the user can see if the motion of the bar was in a straight linear path. The bar's velocity in performing the rep is also very useful as a an extremely high/low bar velocity could lead to injuries. This application is pretty good. However, there are simply too many bugs in the programming aspect. Reviews state that there the calculuation is consistently incorrect and the program tends to crash often when trying to handle 2-5 seconds of video, which is not practical at all. I will definitely try to implement the pros of this app while eliminating minor bugs and calculation errors in the programming.
+
+
+
+3.
+Name: Iron Path
+Link: http://www.theironpath.com/
+
+Pro-features:
+- Clear bar path/velocity (similar to previous app)
+- Has a data structure that contains videos of previous lifts so you can compare
+
+Anti-features:
+- Analyzes the circular weight (not the joints)
+- No comments on how to improve form 
+
+Overview:
+Iron Path is very similar to what I want to make. It has a clear bar path/velocity that  I will definitely implement. Furthermore, it has a save/load structure that I want to implement. However, the app is not very techinique-oriented. It only shows the bar path, without providing any feedback as to which how the user should fix it. Also, it doesn't analyze the joint movements, instead it looks at the circular weight and analyzes it. Therefore, it doesn't provide enough data to really determine if the excersize was performed with good technique and good form.
+
+
+
+

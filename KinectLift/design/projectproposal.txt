@@ -1,0 +1,13 @@
+Dong Won Lee
+Prof. Kosbie
+15112 
+April 12th, 2016
+
+
+Project Proposal
+
+Title: Powerlifting Analysis App 
+
+For my term project, I intend to design and program an application that analyzes the three main powerlifting excersizes: the squat, bench and deadlift. These excersizes require good form and technique. Furthermore, poor reps of these excersizes can lead to severe injury such as and not limited to: rotator cuff tears, pectoral tissue tears, spinal damage. There is no doubt that good form is essential. However, nowadays, in the ratchet "gym" that we call skibo, I spot people performing these excersizes with poor form. This application intends to aid those with poor form. 
+
+The application is going to mainly use PyGame and the Microsoft Kinect. These two modules are imperative to the application. First, the Kinect is going to detect each joint of the user. Then, as the user performs the rep, it is going to calculate the difference in the x, y coordinate in each respective joint according to the excersize before and after. For example, when analyzing the squat, it is going to look at the hip, collarbone and knee. Furthuremore, if the difference is too large, it will be detected and a message will pop on the screen demonstrating what needs to be fixed. 
