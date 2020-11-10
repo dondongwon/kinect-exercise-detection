@@ -11,5 +11,5 @@ The details steps are on the powerpoint.
 
 In order to run this project, you need to have the kinect fully functional and connected to the computer. Then, you simply need to run the python code in a shell (visual studios etc).
 
-![Screenshot from 2020-11-09 20-30-27](https://user-images.githubusercontent.com/43928520/98616252-6ea55800-22ca-11eb-9dae-cacb331351c6.png)
 
+[![Watch the video](https://img.youtube.com/vi/tfN9INl_mkc/maxresdefault.jpg)](https://youtu.be/tfN9INl_mkc)
