@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Kinect Exercise Detection
 
-You can use the [editor on GitHub](https://github.com/dondongwon/dongwon.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An application that anaylzes user's form when performing a squat and bench press. My application uses the microsoft Kinect to calculate the difference in the movements of various joints. Therefore, I could see the ratio and determine what is an incorrect form and what is correct.
 
-### Markdown
+In order to do so I used the modules pykinect2 and pygame.
+https://onedrive.live.com/?id=ED75CBDC5E4AB0FE%211096749&cid=ED75CBDC5E4AB0FE
+This link helped me install pygame and pykinect2.
+Go to the Pre-workshop installation guide and follow the steps to downloading the modules.
+The details steps are on the powerpoint.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dondongwon/dongwon.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In order to run this project, you need to have the kinect fully functional and connected to the computer. Then, you simply need to run the python code in a shell (visual studios etc).
